@@ -799,11 +799,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fac4b473e1102b24ebd5c94c9cb7b32a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pictures:
-  - {fileID: 21300000, guid: fcc409d3a12b7ad40be648b6e8d742c9, type: 3}
-  - {fileID: 21300000, guid: 046dd917ab0185b4eb0f5664417bf671, type: 3}
-  displayImage: {fileID: 0}
-  debugMode: 1
+  sprite1: {fileID: 21300000, guid: fcc409d3a12b7ad40be648b6e8d742c9, type: 3}
+  sprite2: {fileID: 21300000, guid: 046dd917ab0185b4eb0f5664417bf671, type: 3}
 --- !u!1 &1536024780
 GameObject:
   m_ObjectHideFlags: 0
