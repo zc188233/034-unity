@@ -524,7 +524,7 @@ GameObject:
   - component: {fileID: 1080441254}
   m_Layer: 5
   m_HasEditorInfo: 1
-  m_Name: 1-4
+  m_Name: 2-1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -752,7 +752,7 @@ GameObject:
   - component: {fileID: 1536024782}
   m_Layer: 5
   m_HasEditorInfo: 1
-  m_Name: 1-6
+  m_Name: 2-3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -980,7 +980,7 @@ GameObject:
   - component: {fileID: 1998112457}
   m_Layer: 5
   m_HasEditorInfo: 1
-  m_Name: 1-5
+  m_Name: 2-2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
